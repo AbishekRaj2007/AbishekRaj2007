@@ -20,7 +20,8 @@ I'm a second-year engineering student passionate about programming, data structu
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishek-raj-a2aa39318/)
 
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=linkedin&logoColor=white)](rrabishekraj2007@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:rrabishekraj2007@gmail.com)
+
 
 ---
 
