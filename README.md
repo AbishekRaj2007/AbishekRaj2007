@@ -77,6 +77,14 @@
 
 <br>
 
+## 🧩 LeetCode Journey
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/leetcode.gif" width="60"/>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/AbishekRaj22?theme=dark&font=Montserrat)
+
+🔗 https://leetcode.com/AbishekRaj22/
+
 ---
 
 ## 🔗 Connect with Me
