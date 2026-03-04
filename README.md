@@ -1,102 +1,212 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- ████████████████████████████████████████████████████ -->
+<!--              ABISHEK RAJ — GITHUB README            -->
+<!-- ████████████████████████████████████████████████████ -->
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi there 👋, I'm Abishek Raj</h1></summary>
-  </ul>
+<div align="center">
+
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0a3d62,100:0d0d0d&height=220&section=header&text=ABISHEK%20RAJ&fontSize=70&fontColor=00fff9&animation=fadeIn&fontAlignY=38&stroke=00fff9&strokeWidth=2&desc=⚡%20Engineering%20Student%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Builder%20⚡&descAlignY=62&descSize=16&descColor=a0a8b8" width="100%" />
+
+<!-- ANIMATED TYPING SVG -->
+<br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=00FFF9&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=680&height=50&lines=%3E+Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;%3E+Transforming+coffee+into+code+%E2%98%95%E2%9E%9C+%7B+code+%7D;%3E+Full-Stack+%7C+AI%2FML+%7C+DSA+%7C+Cloud+%E2%9A%A1;%3E+Second-Year+Eng+Student+%7C+First-Year+Dreamer+%F0%9F%8C%9F;%3E+Open+to+Collabs+%26+Internships+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- BADGES ROW -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=AbishekRaj2007&label=👁️+Profile+Views&color=00fff9&style=for-the-badge&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/AbishekRaj2007?label=Followers&style=for-the-badge&color=00fff9&labelColor=0d1117&logo=github" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ff88?style=for-the-badge&labelColor=0d1117&logo=checkmarx&logoColor=00ff88" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-ff6b6b?style=for-the-badge&labelColor=0d1117" />
+</p>
+
 </div>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About Me
+---
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- 🎓 I'm a **second-year Engineering Student** passionate about technology.
-- 🌱 I’m currently learning about **Advanced Data Structures** and **Machine Learning Models**.
-- 👨‍💻 My interests are **Web Development**, **Artificial Intelligence**, and **Problem Solving**.
-- 📫 Feel free to **reach out to me**: [rrabishekraj2007@gmail.com](mailto:rrabishekraj2007@gmail.com)
-- ✨ Fun fact: I believe `"Code is like humor. When you have to explain it, it’s bad."`
+## 🧬 System Info
 
-<br>
+```bash
+$ whoami --verbose
+──────────────────────────────────────
+  Name     : Abishek Raj
+  Role     : Full-Stack Dev & AI Builder
+  Location : India 🇮🇳
+  Status   : Building in public 🔨
+  Edu      : Engineering — Year 2/4
+──────────────────────────────────────
+
+$ cat current_mission.txt
+> Master Advanced DSA
+> Ship ML-powered products
+> Contribute to Open Source
+> Land a killer internship
+
+$ echo $PHILOSOPHY
+"Code is like humor.
+ When you have to explain it,
+ it's bad."
+──────────────────────────────────────
+$ █
+```
+
+</td>
+<td valign="top" width="50%">
+
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ My Tech Stack
+## ⚡ Tech Stack
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
 
-### 🚀 Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-8884d8?style=for-the-badge&logo=recharts&logoColor=white)
+<table>
+<tr><td align="center"><b>💬 Languages</b></td></tr>
+<tr><td align="center">
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,c&theme=dark&perline=5" />
+</td></tr>
+</table>
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+<table>
+<tr>
+<td align="center"><b>🎨 Frontend</b></td>
+<td align="center"><b>⚙️ Backend</b></td>
+<td align="center"><b>🗄️ Databases & Cloud</b></td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5" /><br/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark&perline=3" /><br/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-0277BD?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,aws,gcp&theme=dark&perline=5" /><br/>
+<img src="https://img.shields.io/badge/OAuth_2.0-0078D6?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</td>
+</tr>
+</table>
 
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+<table>
+<tr><td align="center"><b>🔧 Dev Tools</b></td></tr>
+<tr><td align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark&perline=5" />
+</td></tr>
+</table>
 
-### 🔧 Tools & Authentication
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0277BD?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-0078D6?style=for-the-badge&logo=oauth&logoColor=white)
-![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-<br>
-
----
-
-## 📊 My GitHub Stats & Activity
-
-<p align="center">
-  
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbishekRaj2007&theme=tokyonight" alt="Abishek Raj's Streak Stats" />
-  <br/>
-  <br/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbishekRaj2007&theme=tokyo-night" alt="Activity Graph" />
-</p>
-
-<br>
-
-## 🧩 LeetCode Journey
-<center>
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/leetcode.gif" width="60"/>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/AbishekRaj22?theme=dark&font=Montserrat)
-
-</center>
+</div>
 
 ---
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/abishek-raj-a2aa39318/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:rrabishekraj2007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+## 📊 GitHub Analytics
 
+<div align="center">
 
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=AbishekRaj2007&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff9&icon_color=00fff9&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbishekRaj2007&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00fff9&text_color=c9d1d9&langs_count=8" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
-<p align="center">Last Edited on: October 10, 2025</p>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbishekRaj2007&theme=black-ice&hide_border=true&background=0d1117&stroke=00fff9&ring=00fff9&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00fff9&sideLabels=00fff9&dates=8b949e" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbishekRaj2007&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+
+</div>
+
+---
+
+## 🔥 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbishekRaj2007&bg_color=0d1117&color=00fff9&line=00fff9&point=ff6b6b&area_color=00fff910&area=true&hide_border=true&custom_title=Abishek's%20Contribution%20Graph%20⚡" width="98%" />
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/leetcode.gif" width="55" />
+<br/>
+<img src="https://leetcard.jacoblin.cool/AbishekRaj22?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=20" />
+
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbishekRaj2007/AbishekRaj2007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbishekRaj2007/AbishekRaj2007/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AbishekRaj2007/AbishekRaj2007/output/github-snake-dark.svg" width="95%"/>
+</picture>
+
+</div>
+
+---
+
+## 📬 Let's Build Something Together
+
+<div align="center">
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishek-raj-a2aa39318/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rrabishekraj2007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbishekRaj2007)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/AbishekRaj22)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up&author=Thomas%20Fuchs" />
+
+<br/><br/>
+
+<!-- ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a3d62,100:0d0d0d&height=130&section=footer&text=Let's+Connect+%F0%9F%A4%9D&fontColor=00fff9&fontSize=22&animation=twinkling&fontAlignY=65" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ Last updated: March 2026 &nbsp;•&nbsp; Made with 🖤 + ☕ by Abishek Raj</sub>
+</div>
