@@ -25,7 +25,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-ff6b6b?style=for-the-badge&labelColor=0d1117" />
 </p>
-
+.
 </div>
 
 ---
