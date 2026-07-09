@@ -1,30 +1,40 @@
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-# 💻 System Info
+<h2>💻 whoami</h2>
 
-```bash
-$ whoami --verbose
-Name      : Abishek Raj
-Role      : AI/ML Engineer & Full Stack Developer
-Location  : India 🇮🇳
-Education : B.E. CSE (AI & ML)
-Focus      : Agentic AI • LLMs • RAG • Full Stack
-Status     : Building in Public 🚀
+<pre>
+$ whoami
 
-$ cat current_mission.txt
-> Build AI-powered products
-> Master Advanced DSA
-> Contribute to Open Source
-> Land a great internship
+Role      : AI/ML Engineer
+Focus     : Agentic AI • LLMs • RAG
+Learning  : Advanced ML
+Status    : Building in Public 🚀
 
-$ echo $PHILOSOPHY
-"Built, Not Born."
-```
-</td> <td width="50%" align="center">
+$ current_projects
 
-<img src="https://raw.githubusercontent.com/AbishekRaj2007/AbishekRaj2007/profile-banner.png" width="100%" alt="Developer Illustration"/>
+> MIOS
+> AI Resume Analyzer
+> RAG Chatbot
 
-</td> </tr> </table> ```
+$ philosophy
+
+"Built. Learn. Repeat."
+</pre>
+
+</td>
+
+<td width="50%" align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=AbishekRaj2007&show_icons=true&theme=github_dark&hide_border=true" />
+
+<br><br>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbishekRaj2007&layout=compact&theme=github_dark&hide_border=true" />
+
+</td>
+
+</tr>
+</table>
