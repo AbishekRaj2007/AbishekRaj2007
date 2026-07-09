@@ -11,19 +11,16 @@
 👤 Name        : Abishek Raj
 
 💼 Role        : AI/ML Engineer
-                 Full Stack Developer
+                 Software Developer Engineer
 
-📍 Location    : India 🇮🇳
+🎓 Degree      : B.E. Computer Science and Engineering
 
-🎓 Degree      : B.E. Computer Science
-                 (AI & ML)
-
-🧠 Interests   : Artificial Intelligence
+🧠 Interests   : 
+                 Full Stack Development
+                 Artificial Intelligence
                  Machine Learning
                  Agentic AI
                  LLMs & RAG
-                 Full Stack Development
-                 Material Informatics
 
 🚀 Currently   : Building AI-powered products
                  Open Source
