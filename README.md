@@ -1,40 +1,67 @@
-<table width="100%">
+<h2 align="center">💻 root@dev-machine:~$ whoami</h2>
+
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 
-<td width="50%" valign="top">
-
-<h2>💻 whoami</h2>
+<td width="55%" valign="top">
 
 <pre>
-$ whoami
+┌───────────────────────────────────────────────────────
 
-Role      : AI/ML Engineer
-Focus     : Agentic AI • LLMs • RAG
-Learning  : Advanced ML
-Status    : Building in Public 🚀
+👤 Name        : Abishek Raj
 
-$ current_projects
+💼 Role        : AI/ML Engineer
+                 Full Stack Developer
 
-> MIOS
-> AI Resume Analyzer
-> RAG Chatbot
+📍 Location    : India 🇮🇳
 
-$ philosophy
+🎓 Degree      : B.E. Computer Science
+                 (AI & ML)
 
-"Built. Learn. Repeat."
+🧠 Interests   : Artificial Intelligence
+                 Machine Learning
+                 Agentic AI
+                 LLMs & RAG
+                 Full Stack Development
+                 Material Informatics
+
+🚀 Currently   : Building AI-powered products
+                 Open Source
+                 Learning System Design
+
+💡 Philosophy  : "Built, Not Born."
+
+└───────────────────────────────────────────────────────
 </pre>
 
 </td>
 
-<td width="50%" align="center">
+<td width="45%" align="center" valign="middle">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=AbishekRaj2007&show_icons=true&theme=github_dark&hide_border=true" />
+<img
+src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+width="420"
+alt="Developer"/>
 
 <br><br>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbishekRaj2007&layout=compact&theme=github_dark&hide_border=true" />
+<h3>Turning ideas into intelligent applications.</h3>
 
 </td>
 
 </tr>
 </table>
+
+---
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,react,nextjs,nodejs,express,fastapi,django,tailwind,postgres,mongodb,mysql,docker,aws,git,linux,vscode,pytorch,tensorflow&perline=12"/>
+</p>
+
+---
+
+<p align="center">
+<i>Code • Learn • Build • Repeat 🚀</i>
+</p>
