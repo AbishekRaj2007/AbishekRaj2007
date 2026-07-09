@@ -54,14 +54,6 @@ alt="Developer"/>
 
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,react,nextjs,nodejs,express,fastapi,django,tailwind,postgres,mongodb,mysql,docker,aws,git,linux,vscode,pytorch,tensorflow&perline=12"/>
-</p>
-
----
-
 <p align="center">
 <i>Code • Learn • Build • Repeat 🚀</i>
 </p>
