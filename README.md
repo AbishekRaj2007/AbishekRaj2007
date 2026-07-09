@@ -15,8 +15,7 @@
 
 🎓 Degree      : B.E. Computer Science and Engineering
 
-🧠 Interests   : 
-                 Full Stack Development
+🧠 Interests   : Full Stack Development
                  Artificial Intelligence
                  Machine Learning
                  Agentic AI
