@@ -35,13 +35,13 @@
 <td width="45%" align="center" valign="middle">
 
 <img
-src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNrbjg1emJheXVveDc1eW90OW1oeXJubTRxMmxqcWNubGlsNnY1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4EoQKTH93x6LDkgo/giphy.gif"
 width="420"
 alt="Developer"/>
 
 <br><br>
 
-<h3>Turning ideas into intelligent applications.</h3>
+<h3>:sob:</h3>
 
 </td>
 
@@ -51,5 +51,5 @@ alt="Developer"/>
 ---
 
 <p align="center">
-<i>Code • Learn • Build • Repeat 🚀</i>
+<i></i>
 </p>
